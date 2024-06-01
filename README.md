@@ -2,6 +2,7 @@
 this is port of gruber-darker colorscheme to kitty terminal emulator
 
 # Screenshot
+![kitty-showcase](https://github.com/ring0-rootkit/gruber-darker-kitty/assets/111735837/871c8bff-bebd-4775-8bac-bab01ca97aeb)
 
 # Installation
 copy `gruber.conf` to your `~/.config/kitty` and put that line in your kitty.conf
